@@ -8,12 +8,13 @@ body {
     font-style: normal;
     padding: 30px;
     margin: 5px;
-    /*background: linear-gradient(rgba(0, 0, 0, 0.208), rgba(0, 0, 0, 0.208)), url('images/bglight.jpg');*/
-    background-image: url("images/bglight.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.208), rgba(0, 0, 0, 0.208)), url('images/bglight.jpg');
+    /*background-image: url("images/bglight.jpg");*/
     background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
     color:balck;
+    flex-wrap: wrap;
 }
 .header{
     background-color:rgba(25, 24, 24, 0.534);
