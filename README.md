@@ -5,8 +5,7 @@ A minimal, single-page food ordering website built using **HTML** and **CSS**. T
 ---
 
 ## 🔗 Live Preview  
-🌐 [Check it Out](https://your-username.github.io/your-repo-name/)  
-*(Update the link with your actual GitHub Pages URL)*
+🌐 [Check it Out](https://hrithika02.github.io/restaurant_simple_website/)
 
 ---
 
