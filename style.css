@@ -1,0 +1,94 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    padding: 30px;
+    margin: 10px;
+    /*background: linear-gradient(rgba(0, 0, 0, 0.208), rgba(0, 0, 0, 0.208)), url('bglight.jpg');*/
+    background-image: url("bglight.jpg");
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+    color:balck;
+}
+.header{
+    background-color:rgba(25, 24, 24, 0.534);
+    text-align: center;
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    height: 100px;
+    border: solid rgba(255, 255, 255, 0.262) 1px;
+}
+img{
+    width: 200px;
+    height: 300px;
+    border-bottom: solid black 1px;
+}
+.section_one,.section_two,.section_three,.section_four{
+    border: solid black 2px;
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    height: 470px;
+    background-color: rgba(255, 255, 255, 0.551);
+    margin-left: 5px;
+    margin-left: 5px;
+}
+.body{
+    text-align: center;
+    margin: 30px;
+}
+.footer{
+    background-color:rgba(25, 24, 24, 0.488);
+    color: white;
+    text-align: center ;
+    border: solid rgba(255, 255, 255, 0.262) 1px;
+}
+.footer_form{
+    padding-left: 580px;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 30%;
+}
+.footer_button{
+    background-color: rgb(248, 168, 19);
+    display: inline-block;
+    width: 300px;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.footer_title{
+    color:rgb(248, 168, 19);
+}
+.button{
+    background-color:rgb(248, 168, 19) ;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 15px;
+    font-size: medium;
+    border: solid rgb(248, 168, 19) 0.5px;
+}
+.header_title{
+    color: rgb(248, 168, 19);
+}
+.image{
+    width: 100%;
+}
+.header_desc{
+    font-size: 25px;
+}
+.section_one-title,.section_two-title,.section_three-title,.section_four-title{
+    padding-top: 10px;
+}
+.button:hover{
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+}
